@@ -4,3 +4,5 @@ function commit() {
 console.log(commit());
 
 // commit lần 1
+
+//commit lần 2
